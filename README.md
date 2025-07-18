@@ -1,5 +1,4 @@
-# Budget Tracker – C Application
-
+# Budget Tracker C Application
 A menu-driven budget tracking application built in C that helps users manage income and expense records efficiently using modular programming and dynamic memory allocation.
 
 ## Overview
