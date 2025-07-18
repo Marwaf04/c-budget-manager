@@ -68,4 +68,4 @@ The input file should contain records in this format:
 
 **Marwa Fekri**  
 Software Engineering Student, Concordia University  
-GitHub: Marwaf04
+GitHub: [@Marwaf04](https://github.com/Marwaf04)
